@@ -8,3 +8,7 @@
 Oblivion1276/Oblivion1276 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Public research projects
+
+- **[Oblivion Forge — Open Fabrication Research](./research/oblivion-forge/README.md)** — a 3 a.m. thought experiment exploring a shared manufacturing language for multi-material, multi-axis, optical, textile, electronic, and robotic fabrication. [Read the v0.1 paper](./research/oblivion-forge/research-program-v0.1.md).
